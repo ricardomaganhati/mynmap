@@ -1,6 +1,6 @@
 # mynmap
 
-Adaptação do projeto MyNmap criado pelo Diego Becker.
+Adaptação do projeto MyNmap criado pelo Diego Becker para funcionar em distribuições Linux baseadas em RedHat.
 
 Veja mais detalhes neste link:
 https://github.com/MyCyb3r/mynmap
